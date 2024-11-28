@@ -1,4 +1,4 @@
-# Ex.07 Restaurant Website
+# Ex.06 Restaurant Website
 ## Date: 13-11-2024
 
 ## AIM:
@@ -242,11 +242,10 @@ footer {
 
 ## OUTPUT:
 
+![Screenshot (83)](https://github.com/user-attachments/assets/a1d293f3-2ff2-42a6-9b38-4576fdd21bdd)
 
-![Screenshot (67)](https://github.com/user-attachments/assets/690fc364-caea-4833-be71-6e5d750cb087)
+![Screenshot (84)](https://github.com/user-attachments/assets/e2b79a07-5102-4d44-85f2-bd70c31741b4)
 
-
-![Screenshot (68)](https://github.com/user-attachments/assets/a83e69b1-7928-42fe-b066-a5e2de123619)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
